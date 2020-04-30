@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/nup-constellations/static/css/main.d1b05096.chunk.css",
+    "main.js": "/nup-constellations/static/js/main.b7b0dd9f.chunk.js",
+    "main.js.map": "/nup-constellations/static/js/main.b7b0dd9f.chunk.js.map",
+    "runtime-main.js": "/nup-constellations/static/js/runtime-main.d5aaf5b2.js",
+    "runtime-main.js.map": "/nup-constellations/static/js/runtime-main.d5aaf5b2.js.map",
+    "static/js/2.14c55f60.chunk.js": "/nup-constellations/static/js/2.14c55f60.chunk.js",
+    "static/js/2.14c55f60.chunk.js.map": "/nup-constellations/static/js/2.14c55f60.chunk.js.map",
+    "index.html": "/nup-constellations/index.html",
+    "precache-manifest.c61835be50055cc1e483bc3c14854e9a.js": "/nup-constellations/precache-manifest.c61835be50055cc1e483bc3c14854e9a.js",
+    "service-worker.js": "/nup-constellations/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/nup-constellations/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.14c55f60.chunk.js.LICENSE.txt": "/nup-constellations/static/js/2.14c55f60.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/nup-constellations/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d5aaf5b2.js",
+    "static/js/2.14c55f60.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.b7b0dd9f.chunk.js"
+  ]
+}
