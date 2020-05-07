@@ -14,7 +14,6 @@ class LoveChilds extends Component {
         return(
             
             <div component="main">
-                <Header />
                 <CardColumns>
                     <Card>
                         <Card.Img variant="top" src="holder.js/100px160" />

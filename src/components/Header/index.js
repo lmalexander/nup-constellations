@@ -10,12 +10,12 @@ class Header extends Component {
             <Navbar.Brand href="#home">
               <img
                 alt=""
-                src="/../assets/images/"
+                src="src/images/NUP_logoNEW.jpg"
                 width="30"
                 height="30"
                 className="d-inline-block align-top"
               />{' '}
-              React Bootstrap
+              constellations
             </Navbar.Brand>
           </Navbar>  
         )

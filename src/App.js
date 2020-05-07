@@ -9,7 +9,8 @@ import {
 } from "react-router-dom";
 import Container from 'react-bootstrap/Container';
 import Home from "./pages/Home";
-import LoveChilds from "./pages/LoveChilds"
+import LoveChilds from "./pages/LoveChilds";
+import Header from "./components/Header";
 
 
 function App() {
@@ -17,10 +18,10 @@ function App() {
     <Router>
       <Container>
         <div className="main">
-          {/* <Header /> */}
+          { <Header /> }
           {/* <Navbar />
-           <Route exact path="/" component={Home} />
-          <Route exact path="/lovechilds" component={LoveChilds} /> */}
+           <Route exact path="/" component={Home} />*/
+          <Route exact path="/lovechilds" component={LoveChilds} /> }
          </div> 
       </Container>  
     </Router>
