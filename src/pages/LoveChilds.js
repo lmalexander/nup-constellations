@@ -1,12 +1,13 @@
+// react components
 import React, { Component } from "react";
-import Header from "../components/Header";
 import CardColumns from 'react-bootstrap/CardColumns';
 import Card from 'react-bootstrap/Card';
-
+// page components
 // import Book from "../components/Book";
 // import BookDetail from "../components/BookDetail";
 // import Quote from "../components/Quote";
 // import NUPLink from "../components/NUPLink";
+// images
 
 class LoveChilds extends Component {
 

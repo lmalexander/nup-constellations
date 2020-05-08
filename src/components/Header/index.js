@@ -1,16 +1,18 @@
 import React, { Component } from "react";
 import Navbar from 'react-bootstrap/Navbar';
+import NUPLogo from "../../assets/images/arch-reverse-on-black-2.jpg";
+import "./style.css"
 
 
 class Header extends Component {
 
     render() {
         return(
-            <Navbar variant="light">
-            <Navbar.Brand href="#home">
+            <Navbar>
+            <Navbar.Brand href="#home" className="navbar" bg="dark" variant="dark" >
               <img
                 alt=""
-                src="src/images/NUP_logoNEW.jpg"
+                src={NUPLogo}
                 width="30"
                 height="30"
                 className="d-inline-block align-top"
